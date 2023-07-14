@@ -14,6 +14,7 @@ The project tackles a set of non-trivial mathematical functions, such as:
 * f(x) = 1/(x^2+1),
 * f(x) = e^x/(1+e^x),
 * f(x) = 1/sqrt(x).
+
 These functions were chosen due to their complexity when it comes to analytical integration. The Monte Carlo method offers an alternative for obtaining numerical approximations of these integrals, bypassing the need for complicated analytical solutions.
 
 The Monte Carlo method has an intriguing history. Its name stems from the Monte Carlo Casino in Monaco, as it essentially 'gambles' with random numbers to arrive at an outcome. Developed during the 1940s as part of the top-secret Manhattan Project, the Monte Carlo method was initially used to model neutron diffusion - a critical part of the design for the first atomic bomb. It was Stanislaw Ulam, a mathematician working on the project, who first realized the potential of random sampling for numerical computation. Nowadays, the method is widely used in fields as diverse as finance, physics, computer graphics, and, of course, numerical integration.
